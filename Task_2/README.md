@@ -93,4 +93,5 @@ The pitch score is computed based on the presence of the key sections, with weig
   - **Suggestions** – Recommendations for improving the pitch.  
 - The final report is generated as a PDF using **ReportLab**.  
 
+Final report for 3 companies is attached as "pitch_report 1/2/3.pdf" also the input pitch deck pdf is also given for reference.
 
