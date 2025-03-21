@@ -25,9 +25,11 @@ The matching logic consists of three main filters:
 ➡️ Industry Match
 Check if the founder's industry matches any industry listed in the investor's profile.
 Convert industry names to lowercase to handle case insensitivity.
+
 ➡️ Stage Match
 Check if the founder’s stage matches any stage listed in the investor's profile.
 Use list comparison to handle multiple stages.
+
 ➡️ Funding Match
 Extract the minimum and maximum cheque range from the investor’s profile.
 Convert the founder's funding requirement to a numeric value.
