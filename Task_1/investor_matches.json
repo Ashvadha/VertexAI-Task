@@ -1,0 +1,77 @@
+[
+    {
+        "Name":"10x Founders",
+        "Website":"https:\/\/www.10xfounders.com\/",
+        "Score":85,
+        "Industry Alignment":"Excellent. Both founder and investor focus on Information Technology & Services.",
+        "Stage Alignment":"Good.  Investor invests in Seed stage, which aligns with the founder's stage.",
+        "Funding Alignment":"Good. Founder's funding requirement ($1M) falls within the investor's cheque range ($100K - $3M).",
+        "Traction":"Good. 10,000 active users and $50K monthly revenue demonstrate significant traction for a seed-stage company.",
+        "Business Model":"Good. Subscription-based SaaS is a favored business model among tech investors.",
+        "Issues":[
+            "The investor prefers deep tech, fintech, or enterprise software. While the founder is in software, it's not specified if it falls into these high-growth niches.",
+            "While the funding aligns, securing the full $1M might require additional investors or a larger round, depending on 10x Founders' typical investment size."
+        ],
+        "Recommendation":"This is a strong match. The founder's profile aligns well with the investor's preferences in terms of industry, stage, and funding.  However, the founder should emphasize the scalability and potential of their SaaS platform, potentially highlighting aspects that resonate with the investor's interest in high-growth niches. Exploring whether the investor typically leads rounds of this size or participates alongside others is also recommended."
+    },
+    {
+        "Name":"1Stock Venture Capital Fund",
+        "Website":"https:\/\/www.1stock.org\/funds",
+        "Score":85,
+        "Industry Alignment":"Excellent: Both founder and investor are focused on Information Technology & Services.",
+        "Stage Alignment":"Good: Investor invests in Seed stage, aligning with the founder's stage.",
+        "Funding Alignment":"Good: Funding request ($1M) falls within the investor's cheque range ($300K - $2M).",
+        "Traction":"Good: 10,000 active users and $50K monthly revenue demonstrate promising traction, although more data would be needed for a complete assessment.",
+        "Business Model":"Good: Subscription-based SaaS is a well-understood and often favored model by investors.",
+        "Issues":[
+            "Further due diligence is needed to assess the long-term growth potential and market share.  The provided information on traction is limited.",
+            "The investor's emphasis on 'remarkable scale' and 'ascendant market share' requires further demonstration from the founder to fully align."
+        ],
+        "Recommendation":"The founder and investor show strong compatibility.  However, the founder should prepare a comprehensive business plan highlighting market potential, competitive advantages, and a clear path to achieving significant scale to address the investor's focus on rapid growth and market dominance.  Presenting a detailed financial model showcasing long-term profitability would further strengthen the pitch.  The ESG factors mentioned by the investor should also be incorporated into the presentation."
+    },
+    {
+        "Name":"3TS Capital Partners",
+        "Website":"https:\/\/3tscapital.com",
+        "Score":85,
+        "Industry Alignment":"Excellent. Both founder and investor focus on Information Technology & Services.",
+        "Stage Alignment":"Good.  The founder is at the Seed stage, which falls within 3TS Capital Partners' investment stages (Pre-seed, Seed, Series+).",
+        "Funding Alignment":"Good. The founder's $1M funding request is well within 3TS's \u20ac300,000 to \u20ac10 million (approximately $325,000 to $10.7M USD) range.  The lower end of their range might be slightly less than ideal, but the overall range shows a good fit.",
+        "Traction":"Good. 10,000 active users and $50K monthly recurring revenue demonstrate solid traction for a seed-stage company, aligning with 3TS's focus on high-growth businesses.",
+        "Business Model":"Good. A subscription-based SaaS platform is a common and attractive model for investors, especially in the tech sector.",
+        "Issues":[
+            "Currency Discrepancy:  While the funding amount aligns generally,  the investor uses Euros, and the founder uses USD; a direct conversion and clear communication about this should be handled.",
+            "Potential for Negotiation: While the funding request fits within the range, the lower end of their range might cause the investor to seek a lower valuation or more equity compared to other options."
+        ],
+        "Recommendation":"This is a strong match. The founder's profile aligns well with 3TS Capital Partners' investment criteria.  However, clear communication on the currency difference and a strong negotiation strategy regarding valuation are crucial for securing funding."
+    },
+    {
+        "Name":"01 Ventures",
+        "Website":"https:\/\/www.01ventures.com\/",
+        "Score":75,
+        "Industry Alignment":"Excellent: Both founder and investor focus on Information Technology & Services.",
+        "Stage Alignment":"Good: Investor invests in Seed stage, aligning with the founder's stage. ",
+        "Funding Alignment":"Good: Founder's funding request of $1M falls within the investor's cheque range of $250K-$2M.",
+        "Traction":"Moderate: 10,000 active users and $50K monthly revenue demonstrate some traction, but may not be sufficient to impress investors focused on 'deep tech' innovations.",
+        "Business Model":"Moderate: Subscription-based SaaS is a common and understood model, but the investor's focus on solving 'the world's biggest challenges' may require further demonstration of the platform's impact.",
+        "Issues":[
+            "The founder's description needs to highlight how their SaaS platform addresses a significant global challenge to better resonate with 01 Ventures' focus on 'deep tech' innovations.",
+            "While the funding aligns, securing the full $1M might require multiple investors or a subsequent round, so a strong pitch is crucial."
+        ],
+        "Recommendation":"The founder should emphasize the societal impact and innovative technology behind their SaaS platform to strengthen their pitch.  Further highlighting significant traction (beyond just user count and revenue) and outlining a clear path to profitability will improve their chances of securing funding from 01 Ventures."
+    },
+    {
+        "Name":"10D",
+        "Website":"https:\/\/www.10d.vc\/",
+        "Score":75,
+        "Industry Alignment":"Excellent. Both founder and investor focus on Information Technology & Services.",
+        "Stage Alignment":"Good. Investor invests in Seed stage, aligning with the founder's stage.",
+        "Funding Alignment":"Good. Funding request ($1M) falls within investor's cheque range ($500K - $5M).",
+        "Traction":"Moderate.  10,000 active users and $50K MRR is decent traction for seed stage, but might not be considered exceptional by all investors.",
+        "Business Model":"Moderate. Subscription-based SaaS is a common and well-understood model, but not explicitly mentioned as a preference by the investor.",
+        "Issues":[
+            "Geographic Location: The investor profile specifies a focus on Israeli and Israeli-related entrepreneurs.  The founder's location is not specified, impacting compatibility.",
+            "Technology Focus: The investor shows a strong preference for deep technology, digital health, fintech, insurance, computer vision, and artificial intelligence. The founder's technology is not detailed enough to assess alignment with these specific areas."
+        ],
+        "Recommendation":"The founder should highlight the specific technology used in their SaaS platform and, if applicable, their connection to Israel.  The strong industry and stage alignment, coupled with the funding fit, suggests a worthwhile pitch.  However, addressing the geographic location and technology focus issues in the pitch is crucial to maximizing chances of securing investment."
+    }
+]
